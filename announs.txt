@@ -1,0 +1,5 @@
+('/bilgisayar/Icerik/İşletmede_Mesleki_Eğitim_Hakkında_Önemli_Duyuru__3ad9b', 'İşletmede Mesleki Eğitim Hakkında Önemli Duyuru ')
+('/bilgisayar/Icerik/Bitirme_ve_Tasarım_Çalışması_Derslerini_Alan_Öğrencilerin_Dikkatine_939a5', 'Bitirme ve Tasarım Çalışması Derslerini Alan Öğrencilerin Dikkatine')
+('/bilgisayar/Icerik/ACI_KAYBIMIZ_f820a', 'ACI KAYBIMIZ')
+('/bilgisayar/Icerik/İşletmede_Mesleki_Eğitim_(7_1)_Başlangıç_Tarihi_Hk__17608', 'İşletmede Mesleki Eğitim (7+1) Başlangıç Tarihi Hk.')
+('/bilgisayar/Icerik/Deprem_bölgesindeki_öğrencilerimizin_dikkatine!_ff5be', 'Deprem bölgesindeki öğrencilerimizin dikkatine!')
