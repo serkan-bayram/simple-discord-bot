@@ -60,6 +60,10 @@ def get_announs(r, option):
                 content = diff.split("'")[3].strip()
                 new_announs += f"\n{content}\n{url}\n"
 
+            with open("announs.txt", "w", encoding="UTF-8") as f:
+                for announs in all_announs:
+                    f.writelines(str(announs) + "\n")
+                
             return True, new_announs
         
         return False, f"Yeni bir duyuru yok.\n\nYayınlamış son duyuru:\n{last_content}\n{last_url}"
